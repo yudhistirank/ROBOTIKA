@@ -1,30 +1,40 @@
-🤖 Robotics Learning Repository
-Selamat datang di repositori ini! Repositori ini dibuat sebagai dokumentasi dan arsip pembelajaran penulis dalam bidang robotika, baik dari segi teori, eksperimen, hingga implementasi pada berbagai platform dan laboratorium.
+# 🤖 Robotika Learning Repository
 
-🧠 Tujuan
-Menyimpan dan melacak perkembangan belajar robotika, termasuk catatan eksperimen, kode program, serta referensi dari berbagai sumber yang penulis pelajari selama proses pembelajaran.
+Selamat datang di repositori ini! Repositori ini dibuat sebagai dokumentasi dan penyimpanan progres belajar penulis dalam bidang **robotika**, baik dalam bentuk source code, catatan eksperimen, maupun referensi dari berbagai laboratorium dan institusi.
 
-🌿 Struktur Branch
-iTCLab
-Berisi materi, proyek, dan eksperimen yang berkaitan dengan Intelligent Control Laboratory. Fokus pada pengembangan dan pemrograman sistem kendali robotik cerdas.
+## 📁 Struktur Branch
 
-iMCLab
-Merupakan tempat dokumentasi untuk pembelajaran dan eksperimen di bidang Mechatronics Control Laboratory. Melibatkan integrasi sistem mekanik, elektronik, dan perangkat lunak.
+Repositori ini terdiri dari beberapa branch utama yang merepresentasikan topik atau sumber pembelajaran yang berbeda:
 
-Robot-BNU
-Menyimpan progres pembelajaran dan proyek robotika yang berkaitan dengan BNU (mungkin singkatan dari institusi atau komunitas terkait). Di dalamnya terdapat implementasi robot dasar hingga lanjutan.
+- `iTCLab`  
+  Branch ini berisi materi dan eksperimen dari **Intelligent Transportation Control Laboratory**. Fokus utamanya adalah pada sistem kontrol cerdas dan aplikasi robotika dalam transportasi.
 
-📁 Konten yang Tersedia
-Source code program robotika
+- `iMCLab`  
+  Berisi catatan, kode, dan eksperimen dari **Intelligent Mechatronics Control Laboratory**. Area yang dipelajari meliputi kontrol mekatronik, sistem embedded, dan integrasi aktuator-sensor.
 
-Catatan eksperimen dan observasi
+- `Robot-BNU`  
+  Merupakan branch yang memuat materi pembelajaran dan proyek yang terinspirasi atau berasal dari **Beijing Normal University (BNU)**. Fokus utamanya adalah pengembangan robotika edukatif dan penelitian dasar.
 
-Dokumen presentasi dan laporan
+## 📚 Tujuan
 
-Gambar/skema rangkaian (jika ada)
+Repositori ini bertujuan untuk:
+- Mencatat progres belajar pribadi dalam bidang robotika.
+- Menyimpan kode eksperimen dan proyek.
+- Menjadi referensi di masa depan saat mengembangkan proyek robotika lanjutan.
 
-Referensi atau bahan bacaan tambahan
+## 🛠️ Teknologi & Tools
 
-🚀 Harapan Kedepannya
-Repositori ini akan terus dikembangkan seiring dengan bertambahnya ilmu dan pengalaman penulis dalam bidang robotika, serta menjadi dokumentasi yang berguna bagi pembaca lain yang juga tertarik di bidang ini.
+Beberapa tools dan bahasa pemrograman yang digunakan antara lain:
+- Python
+- Arduino / C++
+- ROS (Robot Operating System)
+- MATLAB/Simulink
+- Git & GitHub
 
+## 🚀 Cara Berkontribusi (Opsional)
+
+Repositori ini bersifat pribadi namun terbuka untuk kolaborasi edukatif. Jika Anda memiliki saran, pertanyaan, atau ingin berdiskusi, silakan buat issue atau pull request.
+
+---
+
+> 📌 *Catatan: Repositori ini bersifat progresif dan akan terus diperbarui seiring berjalannya waktu belajar penulis dalam bidang robotika.*
