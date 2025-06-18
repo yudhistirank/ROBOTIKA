@@ -1,6 +1,6 @@
 # 🤖 Robotika Learning Repository - Kegiatan Perkuliahan
 
-Selamat datang di repositori ini! Repositori ini dibuat sebagai dokumentasi dan penyimpanan progres belajar penulis dalam bidang **robotika**, baik dalam bentuk source code, catatan eksperimen, maupun referensi dari berbagai laboratorium dan institusi.
+Selamat datang di repositori ini! Repository ini dibuat sebagai dokumentasi dan penyimpanan progres belajar penulis dalam bidang **ROBOTIKA**, baik dalam bentuk source code, catatan eksperimen.
 
 ## Pertemuan Pertama
 [Perkenalan Mata Kuliah Robotik]
@@ -30,9 +30,10 @@ Pada pertemuan keenam mata kuliah robotik, pembelajaran masuk ke konsep Internet
 [Praktik Kontrol Robot BNU V2 Via IoT MQTT Panel]
 Pada pertemuan ketujuh mata kuliah robotik, kami mencoba mengendalikan robot BNU V2 dengan menggunakan aplikasi IoT MQTT Panel. Disini, kami mengirimkan sebuah perintah melalui MQTT Panel yang diterjemahkan menjadi aksi pada robot secara real-time. Praktik ini bertujuan untuk memahami penerapan praktis tentang komunikasi IoT menggunakan protokol MQTT.
 
-# Pengerjaan Final Project
+---
 
-# 🤖 UAS Robot BNU + ML + AI
+# Pengerjaan Final Project - 🤖 UAS Robot BNU + ML + AI
+
 ## 👥 Kelompok Peneliti
 
 | Nama                | NIM         |
@@ -43,13 +44,10 @@ Pada pertemuan ketujuh mata kuliah robotik, kami mencoba mengendalikan robot BNU
 | Suwito              | 22081010102 |
 | Jerry Ramadhani C.  | 22081010140 |
 
----
 
 ## 📌 Deskripsi Singkat Proyek
 
 Proyek ini bertujuan untuk membangun model klasifikasi gambar berbasis CNN (Convolutional Neural Network) untuk mengidentifikasi objek: **Kursi**, **Meja**, **Pintu**, dan **Manusia**.
-
----
 
 ## 🔍 Metodologi Penelitian
 
@@ -70,8 +68,6 @@ Proyek ini bertujuan untuk membangun model klasifikasi gambar berbasis CNN (Conv
    - Loss Function: Categorical Crossentropy
    - Batch size: disesuaikan dengan resource
 
----
-
 ## 📈 Proses Training Model
 
 Berdasarkan **gambar Epoch logs dan grafik**:
@@ -83,8 +79,6 @@ Berdasarkan **gambar Epoch logs dan grafik**:
 
 - Kiri: Akurasi training dan validasi naik drastis
 - Kanan: Loss training turun tajam, sementara **loss validasi naik** setelah beberapa epoch → indikasi overfitting.
-
----
 
 ## ✅ Evaluasi Model
 
