@@ -32,7 +32,7 @@ Pada pertemuan ketujuh mata kuliah robotik, kami mencoba mengendalikan robot BNU
 
 ---
 
-# Pengerjaan Final Project - 🤖 UAS Robot BNU + ML + AI
+# 🤖 Pengerjaan Final Project - UAS Robot BNU + ML + AI
 
 ## 👥 Kelompok Peneliti
 
@@ -107,7 +107,7 @@ Berdasarkan **gambar Epoch logs dan grafik**:
 
 > Namun sama seperti validasi, akurasi tinggi ini menyesatkan karena model kemungkinan besar hanya hafal data training.
 
-# Video Uji Coba Sampah Anogranik
-![Deteksi Sampah Anorganik](robotika-uas/dokumentasi/BNUxAI-test.mp4)
+# Video Uji Coba Robot BNU + ML + AI
+![Deteksi Objek](robotika-uas/dokumentasi/BNUxAI-test.mp4)
 
 ---
